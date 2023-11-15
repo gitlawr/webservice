@@ -81,17 +81,3 @@ components:
           default: ''
           x-walrus-ui:
             group: Advanced
-        walrus_metadata_service_name:
-          title: walrus_metadata_service_name
-          type: string
-          description: Walrus metadata service name.
-          default: ''
-          x-walrus-ui:
-            hidden: true
-        walrus_metadata_namespace_name:
-          title: walrus_metadata_namespace_name
-          type: string
-          description: Walrus metadata namespace name.
-          default: ''
-          x-walrus-ui:
-            hidden: true
